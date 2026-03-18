@@ -1,16 +1,7 @@
-# hafizapp
+Hafiz Confectionery Management Application & Website
+ A full-featured mobile and web solution for managing confectionery operations. The system enables complete inventory tracking, stock management, and sales monitoring. It provides detailed insights into product performance and salesperson progress, along with invoice management and real-time stock updates, ensuring efficient and organized business workflows.
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Hafiz confectionary manmagement app & website
+for complete tracking of inventory ,managing stock ,
+tracking sales & product + sales person progress
+stock + invoices track  
