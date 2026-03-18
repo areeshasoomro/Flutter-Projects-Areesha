@@ -1,0 +1,50 @@
+[
+  {
+    "id": 1,
+    "title": "Brush Twice Daily",
+    "shortDescription": "Brush your teeth two times a day.",
+    "detail": "Brushing twice a day helps remove plaque and prevents cavities. Use fluoride toothpaste and brush for at least two minutes."
+  },
+  {
+    "id": 2,
+    "title": "Floss Every Day",
+    "shortDescription": "Floss removes food between teeth.",
+    "detail": "Daily flossing cleans areas your toothbrush cannot reach and helps prevent gum disease."
+  },
+  {
+    "id": 3,
+    "title": "Limit Sugary Foods",
+    "shortDescription": "Reduce sugar intake.",
+    "detail": "Sugary foods increase acid production in the mouth, leading to enamel damage and cavities."
+  },
+  {
+    "id": 4,
+    "title": "Drink Plenty of Water",
+    "shortDescription": "Water keeps your mouth clean.",
+    "detail": "Drinking water helps wash away food particles and keeps saliva levels balanced."
+  },
+  {
+    "id": 5,
+    "title": "Replace Toothbrush Regularly",
+    "shortDescription": "Change brush every 3 months.",
+    "detail": "Old toothbrushes are less effective at cleaning teeth and can harbor bacteria."
+  },
+  {
+    "id": 6,
+    "title": "Visit Dentist Regularly",
+    "shortDescription": "Routine dental checkups matter.",
+    "detail": "Regular dental visits help detect issues early and maintain oral health."
+  },
+  {
+    "id": 7,
+    "title": "Avoid Smoking",
+    "shortDescription": "Smoking harms oral health.",
+    "detail": "Smoking causes gum disease, bad breath, and increases the risk of oral cancer."
+  },
+  {
+    "id": 8,
+    "title": "Use Mouthwash",
+    "shortDescription": "Mouthwash adds protection.",
+    "detail": "Mouthwash reduces bacteria, freshens breath, and strengthens enamel."
+  }
+]
