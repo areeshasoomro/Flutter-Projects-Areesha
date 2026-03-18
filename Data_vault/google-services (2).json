@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "761745910025",
+    "project_id": "datavault-76ca3",
+    "storage_bucket": "datavault-76ca3.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:761745910025:android:1dcf9c97bbf911cb308bd8",
+        "android_client_info": {
+          "package_name": "com.company.datavault"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAPXpgc8PRVO3Is8HQoGfzlxJxuneiLNX4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
