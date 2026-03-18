@@ -1,0 +1,6 @@
+IntelliDent.ai – Flutter Application
+Developed a Flutter app implementing the full selection task requirements:
+Onboarding Flow: 3 responsive screens with titles, descriptions, and images/icons; smooth Next, Skip, and Get Started navigation.
+Login Screen: Functional form with email and password fields, including proper validation and clear error messages.
+Dental Tips List: Scrollable list from local JSON (8–10 tips) with detail screens on tap.
+for viewing the demo view raw to download video and view
